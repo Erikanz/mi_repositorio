@@ -6,3 +6,6 @@
 
 #resta
 15-5
+
+#division
+5/2
