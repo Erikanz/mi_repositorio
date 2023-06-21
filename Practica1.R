@@ -7,5 +7,10 @@
 #resta
 15-5
 
+HEAD
 #division
 5/2
+
+#multiplicacion
+5*15
+
