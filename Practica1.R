@@ -6,3 +6,6 @@
 
 #resta
 15-5
+
+#multiplicacion
+5*15
