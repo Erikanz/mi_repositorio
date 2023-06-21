@@ -7,7 +7,6 @@
 #resta
 15-5
 
-HEAD
 #division
 5/2
 
