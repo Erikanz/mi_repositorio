@@ -13,3 +13,11 @@
 #multiplicacion
 5*15
 
+
+### potencia 
+(5)^124
+
+##integrantes de New Dimensions
+becarias <- c("Jhanelly","Erika","María Belen", "Lizbeth")
+
+5*2
